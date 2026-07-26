@@ -1,28 +1,42 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Brennan Markham",
     "section": "",
-    "text": "I am a physics undergraduate interested in understanding the universe through mathematics, computation, and experiment.\nMy current interests include:\n\nComputational physics\nQuantum mechanics\nAstrophysics\nNumerical modeling"
+    "text": "I am a physics undergraduate interested in computational physics, quantum mechanics, and astrophysics.\nThis website documents my journey through physics, mathematics, programming, and research.\n\n\n\nComputational physics\nQuantum mechanics\nNumerical simulations\nAstrophysics\n\n\n\n\nComing soon:\n\nOrbital mechanics simulations\nNumerical physics projects\nPhysics explanations and notes"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
+    "objectID": "index.html#current-interests",
+    "href": "index.html#current-interests",
+    "title": "Brennan Markham",
+    "section": "",
+    "text": "Computational physics\nQuantum mechanics\nNumerical simulations\nAstrophysics"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Brennan Markham",
+    "section": "",
+    "text": "Coming soon:\n\nOrbital mechanics simulations\nNumerical physics projects\nPhysics explanations and notes"
+  },
+  {
+    "objectID": "projects/projects.html",
+    "href": "projects/projects.html",
     "title": "Projects",
     "section": "",
     "text": "A Python-based simulation of planetary motion using numerical integration methods.\nTopics:\n\nNewtonian gravity\nDifferential equations\nNumerical methods\n\nStatus: Coming soon\n\n\n\n\nA study of chaotic systems using computational methods.\nTopics:\n\nClassical mechanics\nChaos theory\nNumerical integration\n\nStatus: Coming soon"
   },
   {
-    "objectID": "projects.html#orbital-mechanics-simulator",
-    "href": "projects.html#orbital-mechanics-simulator",
+    "objectID": "projects/projects.html#orbital-mechanics-simulator",
+    "href": "projects/projects.html#orbital-mechanics-simulator",
     "title": "Projects",
     "section": "",
     "text": "A Python-based simulation of planetary motion using numerical integration methods.\nTopics:\n\nNewtonian gravity\nDifferential equations\nNumerical methods\n\nStatus: Coming soon"
   },
   {
-    "objectID": "projects.html#double-pendulum-simulation",
-    "href": "projects.html#double-pendulum-simulation",
+    "objectID": "projects/projects.html#double-pendulum-simulation",
+    "href": "projects/projects.html#double-pendulum-simulation",
     "title": "Projects",
     "section": "",
     "text": "A study of chaotic systems using computational methods.\nTopics:\n\nClassical mechanics\nChaos theory\nNumerical integration\n\nStatus: Coming soon"
@@ -49,24 +63,10 @@
     "text": "Recent Physics Papers\nSummaries and reflections on interesting research papers."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Brennan Markham",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "I am a physics undergraduate interested in computational physics, quantum mechanics, and astrophysics.\nThis website documents my journey through physics, mathematics, programming, and research.\n\n\n\nComputational physics\nQuantum mechanics\nNumerical simulations\nAstrophysics\n\n\n\n\nComing soon:\n\nOrbital mechanics simulations\nNumerical physics projects\nPhysics explanations and notes"
-  },
-  {
-    "objectID": "index.html#current-interests",
-    "href": "index.html#current-interests",
-    "title": "Brennan Markham",
-    "section": "",
-    "text": "Computational physics\nQuantum mechanics\nNumerical simulations\nAstrophysics"
-  },
-  {
-    "objectID": "index.html#projects",
-    "href": "index.html#projects",
-    "title": "Brennan Markham",
-    "section": "",
-    "text": "Coming soon:\n\nOrbital mechanics simulations\nNumerical physics projects\nPhysics explanations and notes"
+    "text": "I am a physics undergraduate interested in understanding the universe through mathematics, computation, and experiment.\nMy current interests include:\n\nComputational physics\nQuantum mechanics\nAstrophysics\nNumerical modeling"
   }
 ]
