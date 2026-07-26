@@ -2,7 +2,7 @@
 title: "Projects"
 ---
 
-# computational physics
+# Computational physics
 
 ## Orbital Mechanics Simulator
 

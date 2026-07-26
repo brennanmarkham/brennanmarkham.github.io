@@ -10,10 +10,12 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: projects.qmd
+      - href: projects/projects.qmd
         text: Projects
       - href: articles/articles.qmd
         text: Articles
+      - href: physics-notes/classical-mechanics.qmd
+        text: Physics Notes
 
 format:
   html:
