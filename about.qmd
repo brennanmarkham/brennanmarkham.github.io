@@ -1,0 +1,12 @@
+---
+title: "About"
+---
+
+I am a physics undergraduate interested in understanding the universe through mathematics, computation, and experiment.
+
+My current interests include:
+
+- Computational physics
+- Quantum mechanics
+- Astrophysics
+- Numerical modeling

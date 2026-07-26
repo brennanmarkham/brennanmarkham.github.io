@@ -1,0 +1,24 @@
+---
+title: "Brennan Markham"
+subtitle: "Physics Portfolio"
+---
+
+# Welcome
+
+I am a physics undergraduate interested in computational physics, quantum mechanics, and astrophysics.
+
+This website documents my journey through physics, mathematics, programming, and research.
+
+## Current Interests
+
+- Computational physics
+- Quantum mechanics
+- Numerical simulations
+- Astrophysics
+
+## Projects
+
+Coming soon:
+- Orbital mechanics simulations
+- Numerical physics projects
+- Physics explanations and notes
