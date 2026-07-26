@@ -9,3 +9,5 @@ Here I'll document:
 - Research
 - Simulations
 - Book and paper reviews
+
+Built with Git, GitHub, and Quarto
