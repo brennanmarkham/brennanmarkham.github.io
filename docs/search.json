@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Brennan Markham",
     "section": "",
-    "text": "I am a physics undergraduate interested in computational physics, quantum mechanics, and astrophysics.\nThis website documents my journey through physics, mathematics, programming, and research.\n\n\n\nComputational physics\nQuantum mechanics\nNumerical simulations\nAstrophysics\n\n\n\n\nComing soon: - Orbital mechanics simulations - Numerical physics projects - Physics explanations and notes"
+    "text": "I am a physics undergraduate interested in computational physics, quantum mechanics, and astrophysics.\nThis website documents my journey through physics, mathematics, programming, and research.\n\n\n\nComputational physics\nQuantum mechanics\nNumerical simulations\nAstrophysics\n\n\n\n\nComing soon:\n\nOrbital mechanics simulations\nNumerical physics projects\nPhysics explanations and notes"
   },
   {
     "objectID": "index.html#current-interests",
@@ -25,6 +25,62 @@
     "href": "index.html#projects",
     "title": "Brennan Markham",
     "section": "",
-    "text": "Coming soon: - Orbital mechanics simulations - Numerical physics projects - Physics explanations and notes"
+    "text": "Coming soon:\n\nOrbital mechanics simulations\nNumerical physics projects\nPhysics explanations and notes"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Projects",
+    "section": "",
+    "text": "#computational physics ## Orbital Mechanics Simulator\nA Python-based simulation of planetary motion using numerical integration methods.\nTopics: - Newtonian gravity - Differential equations - Numerical methods\nStatus: Coming soon"
+  },
+  {
+    "objectID": "project.html#double-pendulum-simulation",
+    "href": "project.html#double-pendulum-simulation",
+    "title": "Projects",
+    "section": "Double Pendulum Simulation",
+    "text": "Double Pendulum Simulation\nA study of chaotic systems using computational methods.\nTopics: - Classical mechanics - Chaos theory - Numerical integration\nStatus: Coming soon"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A Python-based simulation of planetary motion using numerical integration methods.\nTopics:\n\nNewtonian gravity\nDifferential equations\nNumerical methods\n\nStatus: Coming soon\n\n\n\n\nA study of chaotic systems using computational methods.\nTopics:\n\nClassical mechanics\nChaos theory\nNumerical integration\n\nStatus: Coming soon"
+  },
+  {
+    "objectID": "projects.html#double-pendulum-simulation",
+    "href": "projects.html#double-pendulum-simulation",
+    "title": "Projects",
+    "section": "",
+    "text": "A study of chaotic systems using computational methods.\nTopics:\n\nClassical mechanics\nChaos theory\nNumerical integration\n\nStatus: Coming soon"
+  },
+  {
+    "objectID": "projects.html#orbital-mechanics-simulator",
+    "href": "projects.html#orbital-mechanics-simulator",
+    "title": "Projects",
+    "section": "",
+    "text": "A Python-based simulation of planetary motion using numerical integration methods.\nTopics:\n\nNewtonian gravity\nDifferential equations\nNumerical methods\n\nStatus: Coming soon"
+  },
+  {
+    "objectID": "articles/articles.html",
+    "href": "articles/articles.html",
+    "title": "Articles",
+    "section": "",
+    "text": "An intuitive explanation to special relativity.\nComing soon."
+  },
+  {
+    "objectID": "articles/articles.html#why-does-time-slow-down",
+    "href": "articles/articles.html#why-does-time-slow-down",
+    "title": "Articles",
+    "section": "",
+    "text": "An intuitive explanation to special relativity.\nComing soon."
+  },
+  {
+    "objectID": "articles/articles.html#recent-physics-papers",
+    "href": "articles/articles.html#recent-physics-papers",
+    "title": "Articles",
+    "section": "Recent Physics Papers",
+    "text": "Recent Physics Papers\nSummaries and reflections on interesting research papers."
   }
 ]

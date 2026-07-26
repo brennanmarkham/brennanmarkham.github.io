@@ -1,0 +1,33 @@
+---
+title: "Projects"
+---
+
+# computational physics
+
+## Orbital Mechanics Simulator
+
+A Python-based simulation of planetary motion using numerical integration methods.
+
+Topics:
+
+- Newtonian gravity
+- Differential equations
+- Numerical methods
+
+Status:
+Coming soon
+
+---
+
+## Double Pendulum Simulation
+
+A study of chaotic systems using computational methods.
+
+Topics:
+
+- Classical mechanics
+- Chaos theory
+- Numerical integration
+
+Status:
+Coming soon

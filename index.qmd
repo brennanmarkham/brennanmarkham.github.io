@@ -19,6 +19,7 @@ This website documents my journey through physics, mathematics, programming, and
 ## Projects
 
 Coming soon:
+
 - Orbital mechanics simulations
 - Numerical physics projects
 - Physics explanations and notes
